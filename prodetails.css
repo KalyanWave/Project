@@ -1,0 +1,14 @@
+.color{
+      border: 0; 
+      width: 30px;
+}
+.img{
+    width: 500px;
+    height: 500px;
+}
+.hole{
+    margin: 40px 20px;
+    display: flex;
+    gap: 20px;
+    height: 90vh;
+}

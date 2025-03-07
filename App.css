@@ -1,0 +1,38 @@
+.header{
+    background-color:#80C4B7;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar h1{
+    margin-left: 5px;
+    border: 2px solid black;
+    padding: 6px;
+}
+.navbar h1 span{
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+    padding: 3px;
+    border-radius: 2px;
+}
+.navs{
+    margin-right: 9px;
+    display: flex;
+    gap: 95px;
+}
+.navs a{
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: black;
+    color: #ffffff;
+
+}
+.cart{
+    color: aqua;
+}

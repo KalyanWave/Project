@@ -1,0 +1,10 @@
+.imge{
+    width: 250px;
+}
+main{
+    margin: 30px 0;
+    background-color: rgba(128, 128, 128, 0.269);
+    width: 300px;
+    padding: 20px;
+    height: 500px;
+}
